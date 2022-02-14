@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=FFE3EE&height=100&text=MinJungChoi&fontColor=F9FFFF)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=FFE3EE&height=100&text=MinJungChoi)
+
+-----
 
 #### Who Am I
 * I'm currently learning Oracle, Java, JS and JSP.

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=FFE3EE&height=100&text=MinJungChoi)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=FFE3EE&height=100&text=MinJungChoi&fontColor=80AD80)
 
 -----
 

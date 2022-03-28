@@ -23,7 +23,6 @@
 
 #### :heavy_check_mark:MY DEV-TOOL
 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=flat-square&logo=atome&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white"/></a>

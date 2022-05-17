@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=FFE3EE&height=100&text=MinJungChoi&fontColor=80AD80)
-
------
 
 #### Who Am I
 * I'm currently learning Oracle, Java, JS and JSP.
@@ -20,12 +17,6 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
-
-#### :heavy_check_mark:MY DEV-TOOL
-
-<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=flat-square&logo=atome&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white"/></a>
 
 #### :heavy_check_mark:MY LANGUAGES
 

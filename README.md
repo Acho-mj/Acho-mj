@@ -1,9 +1,9 @@
 
-#### Who Am I
+#### :sparkles: Who Am I
 * I'm currently learning Oracle, Java, JS and JSP.
 * I majored in Sofrware.
 
-#### INTEREST
+#### :sparkles: INTEREST
 * Web application
 * Data Analysis
 

@@ -1,6 +1,6 @@
 
 #### :sparkles: Who Am I
-* I'm currently learning Oracle, Java, JS and JSP.
+* I'm currently learning Java, JSP and Spring.
 * I majored in Sofrware.
 
 #### :sparkles: INTEREST

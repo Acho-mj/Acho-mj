@@ -11,6 +11,7 @@
 #### :heavy_check_mark:MY STACK
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/></a>

@@ -8,6 +8,7 @@
 #### :sparkles: MY STACK
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-square&logo=django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/python-3670A0.svg?style=flat-square&logo=python&logoColor=ffdd54"/></a>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
@@ -24,6 +25,6 @@
 #### :sparkles: Reach Me
 <a href="https://acho.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/-Acho_Tistory-45B649?style=flat&logo=About.me&link=https://acho.tistory.com/"
+        src="http://img.shields.io/badge/-ACHO_Tistory-ffc0cb?style=flat&logo=githubsponsors&link=https://acho.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>

@@ -2,7 +2,7 @@
 #### :sparkles: Who Am I
 * I'm currently learning Java & website development.
 * My major is software convergence.
-* University 1st year course
+* University 2nd year course
 
 
 #### :sparkles: MY STACK

@@ -1,10 +1,4 @@
 
-#### :sparkles: Who Am I
-* I'm currently learning Java & website development.
-* My major is software convergence.
-* University 2nd year course
-
-
 #### :sparkles: MY STACK
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=Java&logoColor=white"/></a>

@@ -22,10 +22,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acho-mj&layout=compact)](https://github.com/Acho-mj/github-readme-stats)
 
 
-#### :sparkles: Me
-<a href="https://acho.tistory.com/">
-    <img 
-        src="http://img.shields.io/badge/-ACHOTistory-ffc0cb?style=flat&logo=githubsponsors&link=https://acho.tistory.com/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 

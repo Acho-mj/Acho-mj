@@ -21,4 +21,4 @@
   - 2024학년도 여름방학 SW사관학교 Programming GURU2 Android **장려상_시간여행자**
   - 2023 BEOTKKOTTHON (18개 대학 연합 해커톤) **우수상_oceanstory**
   - 2022학년도 여름방학 SW사관학교 Programming GURU1 HTML/Python(Django), **최우수상_K-TOUR**
-  - HERETHON (멋쟁이사자처럼 대학 소속 서울권 6개 여자대학 연합 해커톤) **3등상_COMEUP**
+  - 2022 HERETHON (멋쟁이사자처럼 대학 소속 서울권 6개 여자대학 연합 해커톤) **3등상_COMEUP**
